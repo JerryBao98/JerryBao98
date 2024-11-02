@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working At Calian Advanced Technologies. Software Developer and Product Owner.
+Currently working At Calian Advanced Technologies. Software Developer and Product Owner. UAlberta BSc. Computer Science 2020.
 
 
 ## 🌐 Socials:
