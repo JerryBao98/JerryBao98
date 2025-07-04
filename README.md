@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working At Calian Advanced Technologies. Software Developer and Product Owner. UAlberta BSc. Computer Science 2020.
+Currently working as a SWE at Affirm. UAlberta BSc. Computer Science 2020.
 
 
 ## 🌐 Socials:
